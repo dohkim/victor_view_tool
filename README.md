@@ -21,7 +21,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+VictorViewTool::Renderer.copyright 'Victor Doh Kim'
+```
 
 ## Development
 
